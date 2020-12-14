@@ -74,7 +74,7 @@ Journal Papers
 ------
 [**Soft Iterative Quantum Receivers Approaching the Helstrom Limit Using Realistic Quantum Devices**](https://ieeexplore.ieee.org/abstract/document/8281456) <br>
 Chenjia Wei, Xiaolin Zhou, **Lingda Wang**, Pengfei Tian, and Lajos Hanzo <br>
-*IEEE Access*, 2019 <br>
+*IEEE Access*, 2018 <br>
 
 Preprints
 ------
