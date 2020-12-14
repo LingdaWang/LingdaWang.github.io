@@ -54,4 +54,36 @@ In *Proceedings of the 2019 IEEE International Conference on Image Processing (I
 Xiaojun Yu, Xiaolin Zhou, Chongbin Xu, **Lingda Wang**, Dailing Shen, and Haitao Zhou <br>
 In *Proceedings of the 2019 IEEE Global Communications Conference (GLOBECOM)*, 2019 <br>
 
+[**A Shot Noise Limited Quantum Iterative Massive MIMO System Over Poisson Atmospheric Channels**](https://ieeexplore.ieee.org/abstract/document/8761493) <br>
+Xiaolin Zhou, Chenjia Wei, Dailing Shen, Chongbin Xu, **Lingda Wang**, and Xiaojun Yu <br>
+In *Proceedings of the 2019 IEEE International Conference on Communications (ICC)*, 2019 <br>
+
+[**Photon Counting Based Iterative Quantum Non-Orthogonal Multiple Access with Spatial Coupling**](https://ieeexplore.ieee.org/abstract/document/8648086) <br>
+Dailing Shen, Chenjia Wei, Xiaolin Zhou, **Lingda Wang**, adn Chongbin Xu <br>
+In *Proceedings of the 2018 IEEE Global Communications Conference (GLOBECOM)*, 2018 <br>
+
+[**Design and Analysis of an Iterative Quantum Receiver with Photon-Number-Resolving Detector**](https://ieeexplore.ieee.org/abstract/document/8288346) <br>
+Chenjia Wei, **Lingda Wang**, Xiaolin Zhou, Pengfei Tian, and Julian Cheng <br>
+In *Proceedings of the 2017 IEEE 86th Vehicular Technology Conference (VTC-Fall)*, 2017 <br>
+
+[**Quantum Multiuser Communication Systems with Adaptive Feedback Measurement and Chip-Interleaved Iter-PIC Receiver**](https://ieeexplore.ieee.org/abstract/document/8288349) <br>
+**Lingda Wang**, Xiaolin Zhou, and Pengfei Tian <br>
+In *Proceedings of the 2017 IEEE 86th Vehicular Technology Conference (VTC-Fall)*, 2017 <br>
+
+Journal Papers
+------
+[**Soft Iterative Quantum Receivers Approaching the Helstrom Limit Using Realistic Quantum Devices**](https://ieeexplore.ieee.org/abstract/document/8281456) <br>
+Chenjia Wei, Xiaolin Zhou, **Lingda Wang**, Pengfei Tian, and Lajos Hanzo <br>
+*IEEE Access*, 2019 <br>
+
+Preprints
+------
+[**Nearly Optimal Algorithms for Piecewise-Stationary Cascading Bandits**](https://arxiv.org/abs/1909.05886) <br>
+**Lingda Wang<sup>\*</sup>**, Huozhi Zhou<sup>\*</sup>, Bingcong Li, Lav R. Varshney, and Zhizhen Zhao (<sup>\*</sup> indicates equal contribution) <br>
+
+
+
+
+
+
 
