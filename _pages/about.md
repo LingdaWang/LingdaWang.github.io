@@ -32,6 +32,13 @@ Conference Papers
 ------
 [**Adversarial Linear Contextual Bandits with Graph-Structured Side Observations**](https://arxiv.org/abs/2012.05756) <br>
 **Lingda Wang**, Lingda Wang, Bingcong Li, Huozhi Zhou, Georgios B. Giannakis, Lav R. Varshney, and Zhizhen Zhao <br>
-Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)*, 2021 <br>
+Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021 <br>
 
+[**Enhancing Parameter-Free Frank Wolfe with an Extra Subproblem**](https://arxiv.org/abs/2012.05284) <br>
+Bingcong Li, **Lingda Wang**, Georgios B. Giannakis, and Zhizhen Zhao <br>
+Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021 <br>
+
+[**Almost Tune-Free Variance Reduction**](http://proceedings.mlr.press/v119/li20n.html) <br>
+Bingcong Li, **Lingda Wang**, and Georgios B Giannakis <br>
+In *Proceedings of the 37th International Conference on Machine Learning (ICML)*, 2020 <br>
 
