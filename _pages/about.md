@@ -25,5 +25,6 @@ Publications
 
 Master's Thesis
 ------
-
+[**Joltik:  On upper confidence bound algorithms for piecewise-stationary stochastic multi-armed bandits and the variants**](https://www.ideals.illinois.edu/handle/2142/106342) <br>
+**Lingda Wang**<br>
 
