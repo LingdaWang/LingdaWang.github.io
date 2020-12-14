@@ -26,5 +26,12 @@ Publications
 Master's Thesis
 ------
 [**On Upper Confidence Bound Algorithms for Piecewise-Stationary Stochastic Multi-Armed bandits and The Variants**](https://www.ideals.illinois.edu/handle/2142/106342) <br>
-**Lingda Wang**<br>
+**Lingda Wang**, 2019. <br>
+
+Conference Papers
+------
+[**Adversarial Linear Contextual Bandits with Graph-Structured Side Observations**](https://arxiv.org/abs/2012.05756) <br>
+**Lingda Wang**, Lingda Wang, Bingcong Li, Huozhi Zhou, Georgios B. Giannakis, Lav R. Varshney, and Zhizhen Zhao <br>
+Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI 2021)*, 2021 <br>
+
 
