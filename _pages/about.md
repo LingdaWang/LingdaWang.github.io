@@ -43,5 +43,5 @@ Bingcong Li, **Lingda Wang**, and Georgios B Giannakis <br>
 In *Proceedings of the 37th International Conference on Machine Learning (ICML)*, 2020 <br>
 
 [**A Near-Optimal Change-Detection Based Algorithm for Piecewise-Stationary Combinatorial Semi-Bandits**](https://ojs.aaai.org//index.php/AAAI/article/view/6176) <br>
-Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R Varshney, and Ee-Peng Lim <br>
+Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R Varshney, and Ee-Peng Lim (<sup>\*</sup> indicates equal contribution) <br> 
 In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020 <br>
