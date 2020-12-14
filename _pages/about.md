@@ -45,3 +45,13 @@ In *Proceedings of the 37th International Conference on Machine Learning (ICML)*
 [**A Near-Optimal Change-Detection Based Algorithm for Piecewise-Stationary Combinatorial Semi-Bandits**](https://ojs.aaai.org//index.php/AAAI/article/view/6176) <br>
 Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R Varshney, and Ee-Peng Lim (<sup>\*</sup> indicates equal contribution) <br> 
 In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020 <br>
+
+[**Two-Dimensional Tomography From Noisy Projection Tilt Series Taken At Unknown View Angles With Non-Uniform Distribution**](https://ieeexplore.ieee.org/abstract/document/8803755) <br>
+**Lingda Wang** and Zhizhen Zhao <br>
+In *Proceedings of the 2019 IEEE International Conference on Image Processing (ICIP)*, 2019 <br>
+
+[**A NOMA-Based Quantum Key Distribution System over Poisson Atmospheric Channels**](https://ieeexplore.ieee.org/abstract/document/9013407) <br>
+Xiaojun Yu, Xiaolin Zhou, Chongbin Xu, **Lingda Wang**, Dailing Shen, and Haitao Zhou <br>
+In *Proceedings of the 2019 IEEE Global Communications Conference (GLOBECOM)*, 2019 <br>
+
+
