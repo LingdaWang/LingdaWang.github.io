@@ -22,6 +22,8 @@ News
 
 Publications
 ======
+
 Master's Thesis
+------
 
 
