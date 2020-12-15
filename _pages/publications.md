@@ -31,11 +31,11 @@ Bingcong Li, **Lingda Wang**, Georgios B. Giannakis, and Zhizhen Zhao <br>
 Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021 <br>
 
 [**Almost Tune-Free Variance Reduction**](http://proceedings.mlr.press/v119/li20n.html) <br>
-Bingcong Li, **Lingda Wang**, and Georgios B Giannakis <br>
+Bingcong Li, **Lingda Wang**, and Georgios B. Giannakis <br>
 In *Proceedings of the 37th International Conference on Machine Learning (ICML)*, 2020 <br>
 
 [**A Near-Optimal Change-Detection Based Algorithm for Piecewise-Stationary Combinatorial Semi-Bandits**](https://ojs.aaai.org//index.php/AAAI/article/view/6176) <br>
-Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R Varshney, and Ee-Peng Lim (<sup>\*</sup> indicates equal contribution) <br> 
+Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R. Varshney, and Ee-Peng Lim (<sup>\*</sup> indicates equal contribution) <br> 
 In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020 <br>
 
 [**Two-Dimensional Tomography From Noisy Projection Tilt Series Taken At Unknown View Angles With Non-Uniform Distribution**](https://ieeexplore.ieee.org/abstract/document/8803755) <br>
@@ -51,7 +51,7 @@ Xiaolin Zhou, Chenjia Wei, Dailing Shen, Chongbin Xu, **Lingda Wang**, and Xiaoj
 In *Proceedings of the 2019 IEEE International Conference on Communications (ICC)*, 2019 <br>
 
 [**Photon Counting Based Iterative Quantum Non-Orthogonal Multiple Access with Spatial Coupling**](https://ieeexplore.ieee.org/abstract/document/8648086) <br>
-Dailing Shen, Chenjia Wei, Xiaolin Zhou, **Lingda Wang**, adn Chongbin Xu <br>
+Dailing Shen, Chenjia Wei, Xiaolin Zhou, **Lingda Wang**, and Chongbin Xu <br>
 In *Proceedings of the 2018 IEEE Global Communications Conference (GLOBECOM)*, 2018 <br>
 
 [**Design and Analysis of an Iterative Quantum Receiver with Photon-Number-Resolving Detector**](https://ieeexplore.ieee.org/abstract/document/8288346) <br>
