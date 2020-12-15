@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Nice to e-meet you! I am Lingda Wang, a fourth-year ECE Ph.D. student at [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Prof. Zhizhen Zhao](http://zhizhenz.ece.illinois.edu). <br>
+Nice to e-meet you! I am Lingda Wang (王凌达), a fourth-year ECE Ph.D. student at [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Prof. Zhizhen Zhao](http://zhizhenz.ece.illinois.edu). <br>
 I received my bachelor's degree from [Fudan University](https://www.fudan.edu.cn/en/) in 2017 and master's degree from [University of Illinois at Urbana-Champaign](https://illinois.edu) at 2019. <br>
 My current research focuses on the theory and applications of Machine Learning, Signal/Imgae Processing, Optimization, and Data Science. Email address: lingdaw2 AT illinois.edu
 
