@@ -17,8 +17,8 @@ author_profile: true
 
 Master's Thesis
 ------
-[**On Upper Confidence Bound Algorithms for Piecewise-Stationary Stochastic Multi-Armed bandits and The Variants**](https://www.ideals.illinois.edu/handle/2142/106342) <br>
-**Lingda Wang**, 2019. <br>
+[**On Upper Confidence Bound Algorithms for Piecewise-Stationary Stochastic Multi-Armed Bandits and The Variants**](https://www.ideals.illinois.edu/handle/2142/106342) <br>
+**Lingda Wang**, University of Illinois at Urbana-Champaign, 2019. <br>
 
 Conference Papers
 ------
