@@ -20,9 +20,6 @@ News
 - **Dec 2019** I received my Master of Science degree in Electrical and Computer Engineering from [University of Illinois at Urbana-Champaign](https://illinois.edu).
 - **Nov 2019** One paper accepted by [AAAI'20](https://aaai.org/Conferences/AAAI-20/).
 
-Awards
-======
-- *SPS Student Travel Grant* by IEEE Signal Processing Society, **2019**
 
 
 
