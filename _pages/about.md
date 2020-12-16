@@ -20,7 +20,6 @@ News
 - **Dec 2019** I received my Master of Science degree in Electrical and Computer Engineering from [University of Illinois at Urbana-Champaign](https://illinois.edu).
 - **Nov 2019** One paper accepted by [AAAI'20](https://aaai.org/Conferences/AAAI-20/).
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=303&t=tt&d=FPF7twPjD1vWaMFrlN_DYIRTdajBNlmQcjNkLZguci8&ct=fff844"></script>
 
 
 
