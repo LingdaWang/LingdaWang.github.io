@@ -15,6 +15,7 @@ My current research focuses on the theory and applications of Machine Learning, 
 
 News
 ======
+- **Jan 2021** One paper accepted by [ICASSP'21](https://2021.ieeeicassp.org)!
 - **Dec 2020** Two papers accepted by [AAAI'21](https://aaai.org/Conferences/AAAI-21/). See you soon!
 - **Jun 2020** *Almost Tune-Free Variance Reduction* accepted by [ICML'20](https://icml.cc). 
 - **Dec 2019** I received my Master of Science degree in Electrical and Computer Engineering from [University of Illinois at Urbana-Champaign](https://illinois.edu).
