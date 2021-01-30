@@ -22,6 +22,10 @@ Master's Thesis
 
 Conference Papers
 ------
+**Near-Optimal Algorithms for Piecewise-Stationary Cascading Bandits** <br>
+**Lingda Wang<sup>\*</sup>**, Huozhi Zhou<sup>\*</sup>, Bingcong Li, Lav R. Varshney, and Zhizhen Zhao (<sup>\*</sup> indicates equal contribution) <br>
+Accepted by *2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2021 <br>
+
 [**Adversarial Linear Contextual Bandits with Graph-Structured Side Observations**](https://arxiv.org/abs/2012.05756) <br>
 **Lingda Wang**, Bingcong Li, Huozhi Zhou, Georgios B. Giannakis, Lav R. Varshney, and Zhizhen Zhao <br>
 Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021 <br>
