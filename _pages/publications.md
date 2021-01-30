@@ -26,23 +26,23 @@ Conference Papers
 **Lingda Wang<sup>\*</sup>**, Huozhi Zhou<sup>\*</sup>, Bingcong Li, Lav R. Varshney, and Zhizhen Zhao (<sup>\*</sup> indicates equal contribution) <br>
 Accepted by *2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2021 <br>
 
-[**Adversarial Linear Contextual Bandits with Graph-Structured Side Observations**](https://arxiv.org/abs/2012.05756) <br>
+[**Adversarial Linear Contextual Bandits with Graph-Structured Side Observations**](https://arxiv.org/abs/2012.05756) [\[Slides\]](/files/AAAI2021GCB_full.pdf) <br>
 **Lingda Wang**, Bingcong Li, Huozhi Zhou, Georgios B. Giannakis, Lav R. Varshney, and Zhizhen Zhao <br>
 Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021 <br>
 
-[**Enhancing Parameter-Free Frank Wolfe with an Extra Subproblem**](https://arxiv.org/abs/2012.05284) <br>
+[**Enhancing Parameter-Free Frank Wolfe with an Extra Subproblem**](https://arxiv.org/abs/2012.05284) [\[Slides\]](/files/AAAI2021_Extra_FW.pdf) <br>
 Bingcong Li, **Lingda Wang**, Georgios B. Giannakis, and Zhizhen Zhao <br>
 Accepted by *the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021 <br>
 
-[**Almost Tune-Free Variance Reduction**](http://proceedings.mlr.press/v119/li20n.html) <br>
+[**Almost Tune-Free Variance Reduction**](http://proceedings.mlr.press/v119/li20n.html) [\[Slides\]](/files/icml2020.pdf)  <br>
 Bingcong Li, **Lingda Wang**, and Georgios B. Giannakis <br>
 In *Proceedings of the 37th International Conference on Machine Learning (ICML)*, 2020 <br>
 
-[**A Near-Optimal Change-Detection Based Algorithm for Piecewise-Stationary Combinatorial Semi-Bandits**](https://ojs.aaai.org//index.php/AAAI/article/view/6176) <br>
+[**A Near-Optimal Change-Detection Based Algorithm for Piecewise-Stationary Combinatorial Semi-Bandits**](https://ojs.aaai.org//index.php/AAAI/article/view/6176) [\[Slides\]](/files/bandit_presentation.pdf) <br>
 Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R. Varshney, and Ee-Peng Lim (<sup>\*</sup> indicates equal contribution) <br> 
 In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020 <br>
 
-[**Two-Dimensional Tomography From Noisy Projection Tilt Series Taken At Unknown View Angles With Non-Uniform Distribution**](https://ieeexplore.ieee.org/abstract/document/8803755) <br>
+[**Two-Dimensional Tomography From Noisy Projection Tilt Series Taken At Unknown View Angles With Non-Uniform Distribution**](https://ieeexplore.ieee.org/abstract/document/8803755) [\[Slides\]](/files/ICIP_2019_slides.pdf) <br>
 **Lingda Wang** and Zhizhen Zhao <br>
 In *Proceedings of the 2019 IEEE International Conference on Image Processing (ICIP)*, 2019 <br>
 
