@@ -23,7 +23,7 @@ Master's Thesis
 Conference Papers
 ------
 **Near-Optimal Algorithms for Piecewise-Stationary Cascading Bandits** <br>
-**Lingda Wang<sup>\*</sup>**, Huozhi Zhou<sup>\*</sup>, Bingcong Li, Lav R. Varshney, and Zhizhen Zhao (<sup>\*</sup> indicates equal contribution) <br>
+**Lingda Wang<sup>\*</sup>**, Huozhi Zhou<sup>\*</sup>, Bingcong Li, Lav R. Varshney, and Zhizhen Zhao (\* indicates equal contribution) <br>
 Accepted by *2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2021 <br>
 
 [**Adversarial Linear Contextual Bandits with Graph-Structured Side Observations**](https://arxiv.org/abs/2012.05756) [\[Slides\]](/files/AAAI2021GCB_full.pdf) <br>
@@ -39,7 +39,7 @@ Bingcong Li, **Lingda Wang**, and Georgios B. Giannakis <br>
 In *Proceedings of the 37th International Conference on Machine Learning (ICML)*, 2020 <br>
 
 [**A Near-Optimal Change-Detection Based Algorithm for Piecewise-Stationary Combinatorial Semi-Bandits**](https://ojs.aaai.org//index.php/AAAI/article/view/6176) [\[Slides\]](/files/bandit_presentation.pdf) <br>
-Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R. Varshney, and Ee-Peng Lim (<sup>\*</sup> indicates equal contribution) <br> 
+Huozhi Zhou<sup>\*</sup>, **Lingda Wang<sup>\*</sup>**, Lav R. Varshney, and Ee-Peng Lim (\* indicates equal contribution) <br> 
 In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI)*, 2020 <br>
 
 [**Two-Dimensional Tomography From Noisy Projection Tilt Series Taken At Unknown View Angles With Non-Uniform Distribution**](https://ieeexplore.ieee.org/abstract/document/8803755) [\[Slides\]](/files/ICIP_2019_slides.pdf) <br>
@@ -75,5 +75,5 @@ Chenjia Wei, Xiaolin Zhou, **Lingda Wang**, Pengfei Tian, and Lajos Hanzo <br>
 Preprints
 ------
 [**Nearly Optimal Algorithms for Piecewise-Stationary Cascading Bandits**](https://arxiv.org/abs/1909.05886) <br>
-**Lingda Wang<sup>\*</sup>**, Huozhi Zhou<sup>\*</sup>, Bingcong Li, Lav R. Varshney, and Zhizhen Zhao (<sup>\*</sup> indicates equal contribution) <br>
+**Lingda Wang<sup>\*</sup>**, Huozhi Zhou<sup>\*</sup>, Bingcong Li, Lav R. Varshney, and Zhizhen Zhao (\* indicates equal contribution) <br>
 
