@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Nice to e-meet you! I am Lingda Wang (王凌达), a 4th-year ECE Ph.D. student at [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Prof. Zhizhen Zhao](http://zhizhenz.ece.illinois.edu). I also closely work with my friends [Bingcong Li](https://bingcongli.github.io) and [Huozhi Zhou](https://scholar.google.com/citations?user=nHKsiE0AAAAJ&hl=en). <br>
+Nice to e-meet you! I am Lingda Wang (王凌达), an ECE Ph.D. student at [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Prof. Zhizhen Zhao](http://zhizhenz.ece.illinois.edu). I also closely work with my friends [Bingcong Li](https://bingcongli.github.io) and [Huozhi Zhou](https://scholar.google.com/citations?user=nHKsiE0AAAAJ&hl=en). <br>
 My current research focuses on: <br>
 - **Machine Learning**: Multi-armed (contextual) bandits with its applications for recommendation systems and social
 networks; Graph neural nets; <br>
