@@ -17,6 +17,8 @@ networks; Graph neural nets; <br>
 
 News
 ======
+
+- **Mar 2021** I will join Amazon for an applied scientist intern this summer.
 - **Jan 2021** One paper accepted by [ICASSP'21](https://2021.ieeeicassp.org)!
 - **Dec 2020** Two papers accepted by [AAAI'21](https://aaai.org/Conferences/AAAI-21/). See you soon!
 - **Jun 2020** *Almost Tune-Free Variance Reduction* accepted by [ICML'20](https://icml.cc). 
